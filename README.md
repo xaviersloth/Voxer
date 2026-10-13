@@ -14,4 +14,4 @@ Eg. The letter "a" is labelled as "01".
 
 
 ### Note:
-The code is extremely bad right now, and I plan a proper rewrite in the near possible future. Some code choices relied on the basis of supporting the original Scratch3 format and with it not being case-sensitive.
+The code is extremely bad right now, and I plan a proper rewrite in the near possible future. Some code choices relied on the basis of supporting the original Scratch3 format and with it not being case-sensitive. This project is mostly a experiment and coded on a school laptop. This would be hosted on the Scratch platform but they don't allow chatrooms and Scratch is blocked on my school internet ( for some reason ) and honestly, I wanted a way to talk to my friends without the use of Gmail.
